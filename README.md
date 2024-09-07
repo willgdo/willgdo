@@ -1,6 +1,6 @@
-### Hey! Eu sou o Will 😉
+### Prazer, eu sou o Willian!
 
-Atualmente trabalhando com e estudando <strong>front-end</strong>.
+Desenvolvedor de software e um eterno aprendiz!
 
 <div align="center">
   <div>
