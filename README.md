@@ -1,6 +1,4 @@
-### Hello, eu sou o Will. Desenvolvedor, apaixonado por tecnologia e um eterno aprendiz!
-
-***
+# Hello, eu sou o Will. Desenvolvedor, apaixonado por tecnologia e um eterno aprendiz!
 
 Trabalho com desenvolvimento de software há quase 10 anos, sou formado em Análise e desenvolvimento de sistemas pela Fatec, e no momento curso uma pós-graduação em Inteligência artificial e aprendizado de máquina pela PUC Minas. Atualmente estudo e trabalho com tecnologias voltadas ao front-end.
 
