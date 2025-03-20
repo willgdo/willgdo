@@ -17,7 +17,7 @@ Trabalho com desenvolvimento de software há quase 10 anos, sou formado em Anál
 
 <br><br>
 
-Se quiser saber mais sobre mim -> https://willgdo.github.io/. Essa página ainda está em construção, e é melhor visualizado na versão web, está sendo criado um estilo específico para mobile. Esse trabalho está sendo feito, e em breve estará pronto.
+Se quiser saber mais sobre mim -> https://willgdo.github.io/. Essa página ainda está em construção, e é melhor visualizado na versão web, está sendo criado um estilo específico para mobile. Isso está sendo feito, e em breve estará disponível.
 
 
 
