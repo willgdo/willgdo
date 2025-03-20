@@ -15,6 +15,10 @@ Trabalho com desenvolvimento de software há quase 10 anos, sou formado em Anál
   <img align="center" alt="Node Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
 
-Se quiser saber um pouco mais de mim:
-https://willgdo.github.io/
-* Melhor visualizado na versão web, para mobile ainda quero (e preciso) fazer um estilo específico para isso. Esse trabalho está sendo feito, e em breve estará no pronto.
+<br>
+
+Se quiser saber mais sobre mim -> https://willgdo.github.io/. Essa página ainda está em construção, e é melhor visualizado na versão web, para mobile ainda quero fazer um estilo específico para isso. Esse trabalho está sendo feito, e em breve estará pronto.
+
+
+
+
