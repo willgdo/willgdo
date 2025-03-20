@@ -2,7 +2,7 @@
 
 Desenvolvedor, apaixonado por tecnologia e um eterno aprendiz! 
 
-Trabalho com desenvolvimento de software há quase 10 anos, sou formado em Análise e desenvolvimento de sistemas pela Fatec, e no momento curso uma pós-graduação em Inteligência artificial e aprendizado de máquina pela PUC Minas. Atualmente estudo e trabalho com tecnologias voltadas ao front-end (e também um pouquinho de back!).
+Trabalho com desenvolvimento de software há quase 10 anos, sou formado em Análise e desenvolvimento de sistemas pela Fatec, e no momento curso uma pós-graduação em Inteligência artificial e aprendizado de máquina pela PUC Minas. Atualmente estudo e trabalho com tecnologias voltadas ao front-end (mas também um pouquinho de back!).
 
 <div style="display: inline_block">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
